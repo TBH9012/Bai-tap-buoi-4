@@ -1,0 +1,11 @@
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\bin\Debug\BT4.exe.config
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\bin\Debug\BT4.exe
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\bin\Debug\BT4.pdb
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\obj\Debug\BT4.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\obj\Debug\BT4.Form1.resources
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\obj\Debug\BT4.Properties.Resources.resources
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\obj\Debug\BT4.csproj.GenerateResource.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\obj\Debug\BT4.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\obj\Debug\BT4.exe
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\obj\Debug\BT4.pdb
+C:\Users\TEMP.LAPTOP-EBCJQA9O.006\source\repos\BT4\BT4\obj\Debug\BT4.FormNhanVien.resources
